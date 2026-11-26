@@ -7,7 +7,7 @@ to /output). Standard library only, no network, fully deterministic.
 
 import os
 
-JOKE = "My AI wrote my apology email so well that even I believe I meant it."
+JOKE = "My AI wrote my apology so well, even I believed I was sorry."
 
 MAX_CHARS = 140
 
